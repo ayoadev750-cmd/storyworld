@@ -1,0 +1,18 @@
+{
+  "name": "StoryWorld",
+  "short_name": "StoryWorld",
+  "description": "Read and discover stories on StoryWorld.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2f8",
+  "theme_color": "#32174d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
